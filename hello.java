@@ -8,6 +8,7 @@ public class hello{
  master
 		System.out.println("This my second commit data+++++++");
 		System.out.println("edit by hotfix");
+		//日月神教教主到此一游
 	}
 
 }
